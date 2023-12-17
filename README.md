@@ -11,6 +11,9 @@ part 2:  56017
 
 ## Day 2:
 ```bash
+❯ python day2/cube_conundrum.py
+part 1:  2169
+part 2:  60948
 ```
 
 ## Day 3:
