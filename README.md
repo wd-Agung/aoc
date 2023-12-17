@@ -9,7 +9,7 @@ part 1:  56506
 part 2:  56017
 ```
 
-## Day 2:
+## Day 2: Cube Conundrum
 ```bash
 ❯ python day2/cube_conundrum.py
 part 1:  2169
